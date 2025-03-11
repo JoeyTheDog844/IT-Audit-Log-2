@@ -1,0 +1,1111 @@
+
+    📌 [Antivirus Security Log]
+    -------------------------------------
+    Timestamp: 2025-03-08 21:04:06.235126
+    Antivirus: Windows Defender
+
+    Last Scan Time:
+    No scan data available (Windows Defender may be disabled or another AV is in use)
+    -------------------------------------
+    
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 21:13:03.982377
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time:
+No scan data available (Windows Defender inactive or not scanning)
+-------------------------------------
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 21:45:51.388961
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time:
+No scan data available (Windows Defender inactive or not scanning)
+-------------------------------------
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 21:50:44
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+Device Control Status: Disabled
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:00:53
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+Device Control Status: Disabled
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:01:21
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Storage Device Access: Disabled
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:06:01
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:06:55
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Storage Access: Allowed ✅
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:07:02
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Storage Access: Allowed ✅
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:07:07
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Storage Access: Allowed ✅
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:08:26
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:24:33
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Disabled: AutoPlay is Disabled ❌
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:26:51
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Disabled: AutoPlay is Enabled ✅
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 22:31:28
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:28:05
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+ReRemote Desktop Protocol (RDP): Remote Desktop: Disabled ❌ (RDP is OFF)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:28:32
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+ReRemote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:37:57
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Telnet Service: Not Installed ❌
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:39:09
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:47:45
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: <function get_default_share_status at 0x00000189B4A8F920>
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:50:11
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: <function get_default_share_status at 0x0000023FFF4F6C00>
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:50:34
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-08 23:57:00
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 00:08:22
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 00:20:27
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 00:26:24
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 12:37:01
+
+Antivirus Installed: Windows Defender
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 12:47:05
+
+Antivirus Installed: Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 12:48:36
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 12:49:26
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 12:52:03
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: No scan data available (Windows Defender inactive or not scanning)
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 12:53:51
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: Last Windows Defender Scan: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 12:54:14
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 13:42:05
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 15:53:52
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: Password Policy is Configured ✅
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 15:56:46
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:03:10
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: System Lockout Policy is Configured ✅
+Lockout threshold:                                    Never
+
+Lockout duration (minutes):                           30
+
+Lockout observation window (minutes):                 30
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:04:24
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: System Lockout Policy is Configured ✅
+Lockout threshold:                                    Never
+
+Lockout duration (minutes):                           30
+
+Lockout observation window (minutes):                 30
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:05:15
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: Lockout Policy Status Unknown ⚠️
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:05:44
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: System Lockout Policy is Configured ✅
+Lockout threshold:                                    Never
+
+Lockout duration (minutes):                           30
+
+Lockout observation window (minutes):                 30
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:05:59
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: System Lockout Policy is Configured ✅
+Lockout threshold:                                    Never
+
+Lockout duration (minutes):                           30
+
+Lockout observation window (minutes):                 30
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:06:12
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: System Lockout Policy is Configured ✅
+Lockout threshold:                                    Never
+
+Lockout duration (minutes):                           30
+
+Lockout observation window (minutes):                 30
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:06:34
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: Lockout Policy Status Unknown ⚠️
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:07:40
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: ⚠️ Lockout Policy Status Unknown (Try Running as Admin)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:08:46
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: ⚠️ Lockout Policy Status Unknown (Try Running as Admin)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:09:29
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: ⚠️ Lockout Policy Not Set ❌ (No threshold found)
+-------------------------------------
+
+
+📌 [Antivirus Security Log]
+-------------------------------------
+Timestamp: 2025-03-09 16:12:09
+
+Antivirus Installed: Windows Defender ✅
+
+Last Windows Defender Scan Time: 09 March 2025 12:35:31
+
+USB Access: Allowed ✅
+
+AutoPlay Status: AutoPlay is Enabled ✅
+
+Remote Desktop Protocol (RDP): Disabled ❌ (RDP is OFF)
+
+Telnet: Not Installed ❌
+
+Default Share: Enabled ⚠️ (Security Risk)
+
+Shared Folders: Not Configured ✅ (Safe)
+
+Passwords not saved in web/system: Passwords Saved ⚠️ (Check Windows Credential Manager)
+
+BIOS Password May Be Set 🔒 (Check BIOS Manually)  
+
+Windows Login Password Set ✅ (User: amaan)
+
+Password Policy: ⚠️ Weak Password Policy ❌ (Users can set empty passwords)
+Minimum password age (days):                          0
+
+Maximum password age (days):                          42
+
+Minimum password length:                              0
+
+Length of password history maintained:                None
+
+System Lockout Policy: ⚠️ No System Lockout Policy ❌ (Accounts never lock)
+Lockout Threshold: Never
+Lockout Duration (minutes): 30
+Lockout Observation Window (minutes): 30
+-------------------------------------
+
